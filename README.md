@@ -21,7 +21,7 @@
 </p>
 
 <br>
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 <br>
 
 <picture>
@@ -44,7 +44,7 @@ Always learning, always building — because in security, standing still is fall
 <br>
 
 <br>
-<h2 align="center">🛠️ Languages & Systems</h2>
+<h2 align="center"> Languages & Systems</h2>
 <br>
 
 <p align="center">
@@ -66,7 +66,7 @@ Always learning, always building — because in security, standing still is fall
 
 
 <br>
-<h2 align="center">🎓 Certifications</h2>
+<h2 align="center"> Certifications</h2>
 <p align="center">These are the certifications I’m planning to pursue after finishing my university studies:</p>
 <br>
 
@@ -139,12 +139,12 @@ Always learning, always building — because in security, standing still is fall
 </table>
 
 
-<h2 align="center">💻 My Projects</h2>
+<h2 align="center"> My Projects</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF9900&center=true&vCenter=true&lines=Coming+Soon...;Stay+Tuned!" />
 </p>
 
-<h2 align="center">❤️ Support Me</h2>
+<h2 align="center"> Support Me</h2>
 <p align="center">
   If you’d like to support me, so I can keep creating open-source projects and continue building with passion,  
   I would be very happy with your help!
