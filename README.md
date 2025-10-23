@@ -33,7 +33,7 @@
   />
 </picture>
 
-I began my journey in technology 6 years ago by learning programming and working as a Full Stack Developer. But I soon discovered that my true passion lies in Cybersecurity. For the past 1.5 years, I have been fully dedicated to this field, specializing in Penetration Testing and Red Teaming.
+I began my journey in technology 7 years ago by learning programming and working as a Full Stack Developer. But I soon discovered that my true passion lies in Cybersecurity. For the past 3 years, I have been fully dedicated to this field, specializing in Penetration Testing and Red Teaming.
 
 I’m deeply passionate about cybersecurity — I study and practice for long hours every single day, driven by a personal goal: to become one of the best in the world. It might sound ambitious, but it’s what motivates me to keep pushing forward.
 
